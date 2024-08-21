@@ -9,7 +9,10 @@ img {
     margin: 100px auto 20px;
     min-width: 272px;
 }
-
+p {
+    text-align: center;
+    margin-top: 200px;
+}
 input {
     box-sizing: border-box;
     display: block;
